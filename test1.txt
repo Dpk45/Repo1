@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2A6D-D1D2
+
+ Directory of C:\Users\Deepak Chauhan\Desktop\MyFirstGitProject
+
+02/12/2017  01:05 AM    <DIR>          .
+02/12/2017  01:05 AM    <DIR>          ..
+02/12/2017  01:05 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  22,322,941,952 bytes free
